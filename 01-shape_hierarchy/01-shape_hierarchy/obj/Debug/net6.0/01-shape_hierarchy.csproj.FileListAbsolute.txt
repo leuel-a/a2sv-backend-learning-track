@@ -1,0 +1,14 @@
+C:\Users\hp\RiderProjects\a2sv-backend-learning-track\01-shape_hierarchy\01-shape_hierarchy\bin\Debug\net6.0\01-shape_hierarchy.exe
+C:\Users\hp\RiderProjects\a2sv-backend-learning-track\01-shape_hierarchy\01-shape_hierarchy\bin\Debug\net6.0\01-shape_hierarchy.deps.json
+C:\Users\hp\RiderProjects\a2sv-backend-learning-track\01-shape_hierarchy\01-shape_hierarchy\bin\Debug\net6.0\01-shape_hierarchy.runtimeconfig.json
+C:\Users\hp\RiderProjects\a2sv-backend-learning-track\01-shape_hierarchy\01-shape_hierarchy\bin\Debug\net6.0\01-shape_hierarchy.dll
+C:\Users\hp\RiderProjects\a2sv-backend-learning-track\01-shape_hierarchy\01-shape_hierarchy\bin\Debug\net6.0\01-shape_hierarchy.pdb
+C:\Users\hp\RiderProjects\a2sv-backend-learning-track\01-shape_hierarchy\01-shape_hierarchy\obj\Debug\net6.0\01-shape_hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\RiderProjects\a2sv-backend-learning-track\01-shape_hierarchy\01-shape_hierarchy\obj\Debug\net6.0\01-shape_hierarchy.AssemblyInfoInputs.cache
+C:\Users\hp\RiderProjects\a2sv-backend-learning-track\01-shape_hierarchy\01-shape_hierarchy\obj\Debug\net6.0\01-shape_hierarchy.AssemblyInfo.cs
+C:\Users\hp\RiderProjects\a2sv-backend-learning-track\01-shape_hierarchy\01-shape_hierarchy\obj\Debug\net6.0\01-shape_hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\hp\RiderProjects\a2sv-backend-learning-track\01-shape_hierarchy\01-shape_hierarchy\obj\Debug\net6.0\01-shape_hierarchy.dll
+C:\Users\hp\RiderProjects\a2sv-backend-learning-track\01-shape_hierarchy\01-shape_hierarchy\obj\Debug\net6.0\refint\01-shape_hierarchy.dll
+C:\Users\hp\RiderProjects\a2sv-backend-learning-track\01-shape_hierarchy\01-shape_hierarchy\obj\Debug\net6.0\01-shape_hierarchy.pdb
+C:\Users\hp\RiderProjects\a2sv-backend-learning-track\01-shape_hierarchy\01-shape_hierarchy\obj\Debug\net6.0\01-shape_hierarchy.genruntimeconfig.cache
+C:\Users\hp\RiderProjects\a2sv-backend-learning-track\01-shape_hierarchy\01-shape_hierarchy\obj\Debug\net6.0\ref\01-shape_hierarchy.dll
